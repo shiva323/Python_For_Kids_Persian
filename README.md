@@ -2,6 +2,34 @@
 
 <img src="./images/repo_hero.png" width="100%" alt="Python for Kids">
 
+## 🌍 About This Project
+
+**Python for Kids – Persian Edition** is a visual, interactive, and project-based Python programming course designed for children and teenagers ages **10–16**.
+
+The course starts from absolute beginner concepts and gradually introduces students to problem-solving, algorithms, variables, data types, strings, conditions, loops, lists, and real Python projects.
+
+Each lesson is provided as a **Jupyter Notebook** and follows a hands-on learning approach:
+
+**Learn → Predict → Run → Modify → Debug → Build**
+
+The lessons are written in **Persian (RTL)**, while Python code follows the standard left-to-right format. Visual illustrations use English labels to ensure consistent rendering across different systems.
+
+### ✨ Course Features
+
+* Beginner-friendly Python lessons
+* Interactive Jupyter Notebooks
+* Visual explanations and diagrams
+* Coding challenges
+* Debugging exercises
+* Mini-projects
+* Project-based learning
+* Designed specifically for ages 10–16
+* Persian explanations with standard Python code
+
+> No previous programming experience is required.
+
+
+
 # 🐍 ماجراجویی در دنیای پایتون
 
 **دوره پروژه‌محور Python برای کودکان و نوجوانان ۱۰ تا ۱۶ سال**
@@ -30,78 +58,6 @@
 | 10 | Loop Patterns | Score Analyzer |
 | 11 | List + Mutability + Methods | Quest Inventory Manager |
 
----
-
-## 🎓 چیزی که در جلسات ۹ تا ۱۱ اضافه می‌شود
-
-### جلسه ۹ — تصمیم‌گیری حرفه‌ای
-- `if / elif / else`
-- ترتیب شاخه‌ها
-- `and / or / not`
-- `in / not in`
-- Nested `if`
-- Truthiness مقدماتی
-- پروژه Smart Ticket Gate
-
-### جلسه ۱۰ — حلقه‌ها
-- Iteration و Iterable
-- Iterator Variable
-- `for`
-- `range()`
-- Counter
-- Accumulator
-- Average
-- Running Min / Max
-- `enumerate()`
-- `break`
-- `continue`
-- `while`
-- Infinite Loop
-- Nested Loop
-- پروژه Score Analyzer
-
-### جلسه ۱۱ — List
-- ساخت لیست
-- Indexing و Negative Indexing
-- Slicing
-- Traversal
-- Mutability
-- `append()`
-- `insert()`
-- `extend()`
-- `remove()`
-- `pop()`
-- `del`
-- `clear()`
-- `len()`
-- `count()`
-- `index()`
-- `sum() / min() / max()`
-- `sort() / reverse() / sorted()`
-- Alias vs Copy
-- Nested List
-- پروژه Quest Inventory Manager
-
----
-
-## 🎨 استاندارد بصری
-
-- فارسی: RTL
-- Python code: LTR
-- هر کارت فقط یک مفهوم
-- خط جداکننده بین بخش‌ها
-- تصویرهای انگلیسی Kid Coding / Cartoon Programming
-- تصویر هم Embed شده در `.ipynb` و هم فایل مستقل در `images/`
-- Predict / Run / Debug / Build در هر جلسه
-
----
-
-## ▶️ اجرا در VS Code
-
-1. افزونه‌های **Python** و **Jupyter** را نصب کنید.
-2. فایل `SessionXX.ipynb` را باز کنید.
-3. Python Kernel را انتخاب کنید.
-4. سلول‌ها را به‌ترتیب اجرا کنید.
 
 ---
 
