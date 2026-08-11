@@ -26,9 +26,11 @@ The lessons are written in **Persian (RTL)**, while Python code follows the stan
 * Designed specifically for ages 10–16
 * Persian explanations with standard Python code
 
-> No previous programming experience TLهستند.
+> No previous programming experience💻
 
---- دوره   پروژه محور پایتون برای کودکان و نوجوانان 👩🏻‍💻🧑🏼‍💻
+
+
+ دوره پروژه محور پایتون برای کودکان و نوجوانان 👩🏻‍💻🧑🏼‍💻
 
 ## 🗺️ جلسات فعلی
 
