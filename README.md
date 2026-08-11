@@ -26,19 +26,9 @@ The lessons are written in **Persian (RTL)**, while Python code follows the stan
 * Designed specifically for ages 10–16
 * Persian explanations with standard Python code
 
-> No previous programming experience is required.
-</div>
+> No previous programming experience TLهستند.
 
-<div dir="rtl" align="right">
-
-
-# 🐍 ماجراجویی در دنیای پایتون
-
-**دوره پروژه‌محور Python برای کودکان و نوجوانان ۱۰ تا ۱۶ سال**
-
-> تصاویر آموزشی داخل خود فایل‌های `.ipynb` به‌صورت PNG Attachment قرار دارند و یک نسخه جدا نیز در پوشه `images/` نگهداری می‌شود. متن داخل تصاویر انگلیسی است تا مشکل فونت فارسی ایجاد نشود؛ توضیحات اصلی درس فارسی و RTL هستند.
-
----
+--- دوره   پروژه محور پایتون برای کودکان و نوجوانان 👩🏻‍💻🧑🏼‍💻
 
 ## 🗺️ جلسات فعلی
 
